@@ -20,5 +20,7 @@
 			<text>Second item de la seconde paire</text>
 		</answer>
 	</subquestion>
-	<shuffleanswers>true
+        <answer>fausse reponse</answer>
+        <shuffleanswers>true</shuffleanswers>
 </question>
+
