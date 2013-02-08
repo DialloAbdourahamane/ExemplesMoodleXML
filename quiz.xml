@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+
+<quiz>
+
+	<Document>MultiChoiceQuestion.xml</Document>
+	<Document>PairMatchingQuestion.xml</Document>
+</quiz>
